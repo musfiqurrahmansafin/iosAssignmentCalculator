@@ -23,6 +23,12 @@ Designed with an **intuitive user interface** for ease of use!
 ## **📸 Screenshots**
 
 Here are some visuals of the app in action:
+![add](https://github.com/user-attachments/assets/cd98f835-c522-496a-86a2-598b47f73298)
+![sub](https://github.com/user-attachments/assets/c5998513-c3be-492c-ae31-fde4ef56f65c)
+![mul](https://github.com/user-attachments/assets/c072ce6d-2ef9-43c0-9fe2-3a3bc149d9a5)
+![div](https://github.com/user-attachments/assets/ccb344f3-eb06-4822-8b43-bac1844d9d47)
+
+
 
 
 ## **💡 How It Works**
